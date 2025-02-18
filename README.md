@@ -20,6 +20,7 @@ Important Metrics
 •	No-shows and cancellation months
 
 Link To Tableau dashboard:
+https://public.tableau.com/app/profile/deepa.naik/vizzes
 https://public.tableau.com/views/HospitalOperationsEfficiencyDashboard/HospitalEfficiencyDashboard3?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
