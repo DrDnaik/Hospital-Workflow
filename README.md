@@ -19,8 +19,8 @@ Important Metrics
 •	Medication error rates by staff and month-wise
 •	No-shows and cancellation months
 
-Link To Tableau dashboard:
+Link To Tableau dashboard: Hospital Operations Efficiency Dashboard
 https://public.tableau.com/app/profile/deepa.naik/vizzes
-https://public.tableau.com/views/HospitalOperationsEfficiencyDashboard/HospitalEfficiencyDashboard3?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 
 
